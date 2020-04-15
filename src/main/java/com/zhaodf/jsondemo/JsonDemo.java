@@ -35,7 +35,7 @@ public class JsonDemo {
         person.setName("zhaodf");
         person.setAge(18);
         person.setSex("M");
-        return  person;
+        return person;
     }
 
     private static void executeWithJackJson() throws IOException {
